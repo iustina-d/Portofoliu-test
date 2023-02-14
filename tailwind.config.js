@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        fairy:" intel"
+        mono:" font-mono"
       }
     },
   },
